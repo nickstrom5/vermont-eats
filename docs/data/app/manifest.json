@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "version": "2026-11-05.1",
+ "records_through": "2026-11-05",
+ "published": "2026-11-05T22:10:12Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-vermont": {
+   "path": "detail-vermont-8863ed402c12.json",
+   "sha256": "8863ed402c1250492e18d6df60295079c344010ebad7bb602e11ccb2da7b1caf",
+   "bytes": 98886,
+   "rows": 1586
+  },
+  "places": {
+   "path": "places-423bdc8362d9.json",
+   "sha256": "423bdc8362d9b7f0fd7f69f5f598f4a79742b77eb6fb26ea3e2160a1be5b1c7f",
+   "bytes": 258323,
+   "rows": 1632
+  }
+ },
+ "counts": {
+  "places": 1632,
+  "files": 2,
+  "bytes": 357209,
+  "restaurants": 1576
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "generated": "2026-11-05",
+ "domain": "https://nickstrom5.github.io/vermont-eats",
+ "restaurants": 1576,
+ "places_incl_hidden": 1632,
+ "towns": 171,
+ "counties": 14,
+ "on_an_official_list": 0,
+ "hand_checked_on_a_guide": 44,
+ "serves_alcohol_state_license": 0,
+ "guide_diners": 9,
+ "guide_creemees": 7,
+ "guide_cider": 4,
+ "guide_pizza": 7,
+ "guide_sugarhouses": 4,
+ "guide_taprooms": 8,
+ "guide_inns": 8,
+ "oldest": 3,
+ "honors": 13,
+ "michelin": {},
+ "james_beard": 13,
+ "americas_classics": 1,
+ "permits_updated": "",
+ "city_pages": {
+  "Burlington": {
+   "restaurants": 156,
+   "listed": 9,
+   "diners": 2,
+   "creemees": 0,
+   "cider": 0,
+   "pizza": 0,
+   "sugarhouses": 0,
+   "taprooms": 1,
+   "inns": 0,
+   "hon": 6,
+   "oldest": 0
+  }
+ },
+ "cities_without_a_page": {
+  "South Burlington": 3,
+  "Montpelier": 2,
+  "Waitsfield": 2,
+  "Stowe": 1,
+  "Manchester": 2,
+  "Brattleboro": 0,
+  "Woodstock": 1,
+  "Middlebury": 0,
+  "Rutland": 1,
+  "Waterbury": 2,
+  "St. Johnsbury": 1,
+  "Shelburne": 2,
+  "Killington": 1,
+  "Norwich": 1,
+  "Randolph": 2
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 120462,
+   "gzip": 30939
+  },
+  "data/detail-addison-county.json": {
+   "raw": 3696,
+   "gzip": 1183
+  },
+  "data/detail-bennington-county.json": {
+   "raw": 6716,
+   "gzip": 2106
+  },
+  "data/detail-caledonia-county.json": {
+   "raw": 3506,
+   "gzip": 1126
+  },
+  "data/detail-chittenden-county.json": {
+   "raw": 24529,
+   "gzip": 6937
+  },
+  "data/detail-essex-county.json": {
+   "raw": 371,
+   "gzip": 204
+  },
+  "data/detail-franklin-county.json": {
+   "raw": 3952,
+   "gzip": 1279
+  },
+  "data/detail-grand-isle-county.json": {
+   "raw": 744,
+   "gzip": 366
+  },
+  "data/detail-lamoille-county.json": {
+   "raw": 5288,
+   "gzip": 1553
+  },
+  "data/detail-orange-county.json": {
+   "raw": 2117,
+   "gzip": 882
+  },
+  "data/detail-orleans-county.json": {
+   "raw": 2643,
+   "gzip": 964
+  },
+  "data/detail-rutland-county.json": {
+   "raw": 8748,
+   "gzip": 2640
+  },
+  "data/detail-washington-county.json": {
+   "raw": 8604,
+   "gzip": 2761
+  },
+  "data/detail-windham-county.json": {
+   "raw": 8351,
+   "gzip": 2442
+  },
+  "data/detail-windsor-county.json": {
+   "raw": 7853,
+   "gzip": 2554
+  },
+  "data/ids.json": {
+   "raw": 20516,
+   "gzip": 12070
+  },
+  "data/vt_shapes.json": {
+   "raw": 19607,
+   "gzip": 4199
+  }
+ }
+}
